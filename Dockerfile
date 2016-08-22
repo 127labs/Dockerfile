@@ -7,4 +7,4 @@ RUN mix local.rebar --force
 
 WORKDIR /srv
 
-CMD ["bash"]
+CMD ["iex"]
